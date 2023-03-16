@@ -3,7 +3,9 @@
 Made using Aseprite and Construct 3
 
 Art: Collin L.
+
 Development: Chris T.
+
 Sound: Daniel D.
 
 # Overview
